@@ -1,39 +1,65 @@
-# My Portfolio
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Original Portfolio
+
+![Status](https://img.shields.io/badge/Status-Live%20static%20site-000000?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-HTML-000000?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-CSS-000000?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Portfolio-000000?style=for-the-badge)
+
+Earlier static portfolio site for initial web development projects.
 
 ## Table of Contents
-* [Description](#description)
-* [Screenshot](#screenshot)
-* [Installation](#installation)
-* [Live Application](#live-application)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
-## Description
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Links](#links)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Credits](#credits)
+- [License](#license)
 
-I created this website to showcase the various web development projects I have been working on for prospective employers to check out.
+## Overview
 
-## Screenshot
+A historical static portfolio built with HTML and CSS before the current React portfolio.
 
-![alt text](/assets/images/My%20Portfolio.png)
+## Features
 
-## Installation
+- 🧑‍💻 Static portfolio layout
+- 🔗 Project links
+- 📱 Responsive sections
+- 📬 Contact information
 
-N/A
+## Tech Stack
 
-## Live Application
+- HTML
+- CSS
 
-[https://lvanness7690.github.io/my-portfolio/]
+## Links
+
+- Repository: [https://github.com/lvanness7690/my-portfolio](https://github.com/lvanness7690/my-portfolio)
+- Live application: [https://lvanness7690.github.io/my-portfolio/](https://lvanness7690.github.io/my-portfolio/)
+
+## Getting Started
+
+1. `Open index.html in a browser`
+2. `No package install required`
 
 ## Usage
 
-To view more info on each section click the links in the navigation header to read more about them. To view each project in more detail click on the photo to be brought to the live page.
+Historical portfolio reference; the current portfolio is maintained in react-portfolio.
+
+## Project Structure
+
+- `LICENSE.txt`
+- `README.md`
+- `assets`
+- `index.html`
 
 ## Credits
 
-Developed by Leighton Van Ness
+Developed and maintained by Leighton Van Ness.
 
 ## License
 
-Please refer to the license in the repo.
+This project is licensed under the MIT license. See the license file in the repository for details.
